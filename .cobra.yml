@@ -1,0 +1,6 @@
+# author this is used by cobra and placed on top of code files
+author: Carmine Rimi <carmine.rimi@gmail.com>
+# license is used as part of code comments and is placed in the cmd/name directory
+license: Apache 2.0
+# projectbase is used to control where the generated code is placed: $GOPATH/$projectbase
+projectbase: github.com/carmine/naked
